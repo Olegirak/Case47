@@ -1,0 +1,15 @@
+C:\Geekbrain\Case47\obj\Debug\net6.0\Case47.csproj.AssemblyReference.cache
+C:\Geekbrain\Case47\obj\Debug\net6.0\Case47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrain\Case47\obj\Debug\net6.0\Case47.AssemblyInfoInputs.cache
+C:\Geekbrain\Case47\obj\Debug\net6.0\Case47.AssemblyInfo.cs
+C:\Geekbrain\Case47\obj\Debug\net6.0\Case47.csproj.CoreCompileInputs.cache
+C:\Geekbrain\Case47\bin\Debug\net6.0\Case47.exe
+C:\Geekbrain\Case47\bin\Debug\net6.0\Case47.deps.json
+C:\Geekbrain\Case47\bin\Debug\net6.0\Case47.runtimeconfig.json
+C:\Geekbrain\Case47\bin\Debug\net6.0\Case47.dll
+C:\Geekbrain\Case47\bin\Debug\net6.0\Case47.pdb
+C:\Geekbrain\Case47\obj\Debug\net6.0\Case47.dll
+C:\Geekbrain\Case47\obj\Debug\net6.0\refint\Case47.dll
+C:\Geekbrain\Case47\obj\Debug\net6.0\Case47.pdb
+C:\Geekbrain\Case47\obj\Debug\net6.0\Case47.genruntimeconfig.cache
+C:\Geekbrain\Case47\obj\Debug\net6.0\ref\Case47.dll
